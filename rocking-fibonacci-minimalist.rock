@@ -1,0 +1,17 @@
+(Function)
+Fibonacci takes Places
+    Previous is 0
+    Next is 1
+    Counter is 0
+    until Counter is Places
+        Say previous
+        Put previous plus next into sum
+        Put next into previous
+        Put sum into next
+        Build Counter up
+
+    Give back nothing
+
+(Example call)
+Places is some number (46)
+Fibonacci taking Places
